@@ -14,4 +14,5 @@ A fake birdwatching website that utilizes provided html to markup and format a w
 ## Sources and Credits
 - Shane Panter: https://github.com/shanep/web-dev-starter
 - https://www.geeksforgeeks.org/html-layout/
+- https://validator.w3.org/nu/
 
